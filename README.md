@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Chiyu 👋
+
+- UC Berkeley CS & Applied Math
+- Research Intern @ Microsoft Research
 
 <!--
 **wcyjames/wcyjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
