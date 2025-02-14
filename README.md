@@ -1,6 +1,6 @@
 ### Hi there, I'm Chiyu 👋
 
-- UC Berkeley CS & Applied Math
+- UC Berkeley CS & Applied Math -> Yale CS
 - Ex-Research Intern @ Microsoft Research
 - Ex-Software Dev Engineer Intern @ AWS AI
 
